@@ -1,3 +1,2 @@
 pyrocko
 jupyter_contrib_nbextensions
-ipywidgets
