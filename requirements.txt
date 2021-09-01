@@ -1,3 +1,2 @@
 pyrocko
-jupytext
-nbconvert
+jupyter_contrib_nbextensions
