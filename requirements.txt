@@ -1,7 +1,3 @@
 pyrocko
 jupyter_contrib_nbextensions
 pandas
-xarray
-netcdf4
-packaging
-gmt
