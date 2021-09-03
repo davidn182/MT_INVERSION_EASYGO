@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+  - defaults
+  - conda-forge/label/broken
+
+dependencies:
+  - python
+  - obspy >=1.2.0
+  - pyrocko
+  - jupyter_contrib_nbextensions
+  - pandas
+  - basemap
+  - pyproj
+  - scipy
