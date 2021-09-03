@@ -1,14 +1,19 @@
-name: obsrocko
-channels:
-  - conda-forge
-  - defaults
-
-dependencies:
-  - python
-  - obspy
-  - pyrocko
-  - jupyter_contrib_nbextensions
-  - pandas
-  - basemap
-  - pyproj
-  - scipy
+maps:
+  - conda
+    - channels
+      - conda-forge
+    - dependencies
+      - python
+      - matplotlib
+      - basemap
+      - pandas
+      - basemap
+      - pyproj
+      - scipy
+      - obspy
+      - pyrocko
+  - pip:
+    - jupyter_contrib_nbextensions
+  - postBuild
+    - jupyter contrib nbextension install --user
+    - jupyter nbextension enable codefolding/main
