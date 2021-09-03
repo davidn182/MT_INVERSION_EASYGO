@@ -1,11 +1,11 @@
+name: obsrocko
 channels:
   - conda-forge
   - defaults
-  - conda-forge/label/broken
 
 dependencies:
   - python
-  - obspy >=1.2.0
+  - obspy
   - pyrocko
   - jupyter_contrib_nbextensions
   - pandas
