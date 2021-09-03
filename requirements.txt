@@ -1,9 +1,4 @@
 pyrocko
 jupyter_contrib_nbextensions
 pandas
-basemap
 pyproj
-numpy
-matplotlib
-scipy
-warnings
