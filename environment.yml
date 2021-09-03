@@ -1,0 +1,4 @@
+channels:
+  - conda-forge
+  - defaults
+  - conda-forge/label/broken

@@ -1,3 +1,5 @@
 pyrocko
 jupyter_contrib_nbextensions
 pandas
+basemap
+pyproj
