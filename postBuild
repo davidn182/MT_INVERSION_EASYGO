@@ -1,2 +1,4 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable codefolding/main
+pip install numpy
+pip install -r ./requirements.txt
