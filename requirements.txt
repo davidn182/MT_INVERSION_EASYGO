@@ -2,3 +2,5 @@ pyrocko
 jupyter_contrib_nbextensions
 pandas
 pyproj
+cartopy
+pillow
