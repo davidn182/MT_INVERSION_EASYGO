@@ -1,2 +1,2 @@
 # MT_INVERSION_EASYGO
-Tutorial on moment tensor inversion for the EasyGo trainning workshop 2021.
+Tutorial on moment tensor inversion for the EasyGo training workshop 2021.
